@@ -19,7 +19,7 @@ namespace Ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo");
+            MessageBox.Show("El Unico modo de hacer un gran trabajo es amar lo que haces");
         }
     }
 }
